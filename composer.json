@@ -1,0 +1,19 @@
+{
+    "name": "mastermed/coursework",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mastermed\\Coursework\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Gafurov Alexandr",
+            "email": "gafuroff.al@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "fakerphp/faker": "2.x-dev"
+    }
+}
